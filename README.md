@@ -57,7 +57,7 @@ streamlit run app.py
 
 ---
 
-**## 📌 Outcomes**
+## 📌 Outcomes
 
 Developed and deployed an ML-powered recommendation system
 
@@ -67,7 +67,7 @@ Learned how to handle data, build models, and present results interactively
 
 ---
 
-**## 👩‍💻 Author**
+## 👩‍💻 Author
 
 Harini K – Data Science Enthusiast | Physics Graduate | Machine Learning Learner
 
