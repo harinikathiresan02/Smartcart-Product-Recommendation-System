@@ -1,0 +1,1001 @@
+product_id,title,category,description,price,avg_rating,review_count
+B01LYEEFVH,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",99.95,4.7,25430
+B07PGL8355,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),49.99,4.6,98721
+B07XKF5RM3,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,49.99,4.7,85642
+B08N5KWB9H,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",149.95,4.8,43215
+B08KTZCF4N,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,249,4.6,128753
+B07W6ZQYJR,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,249.99,4.9,5421
+B08H95Y452,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,299.99,4.8,87654
+B08J8FL9J2,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",399.99,4.9,65432
+B08FC5L3RG,Xbox Series S,Gaming,Next-gen console with 512GB SSD,299.99,4.7,54321
+B07VGRJDFY,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",429,4.8,76543
+B08L5WD9D6,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,697.99,4.7,32145
+B08BX7FV5L,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,29.99,4.8,87654
+B07R2W9D3X,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,34.99,4.3,54321
+B07K1J3C23,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,25.99,4.6,98765
+B07T81554H,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.99,4.7,54321
+B08N5LNQCX,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,199,4.5,43215
+B08PDN2R3C,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,14.99,4.6,8765
+B08T4Y6HJX,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,79.99,4.7,5432
+B08G1Y9XNK,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,40,4.6,3214
+B08CX5JL4D,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,29.99,4.8,7654
+B08JQQ1VD1,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,99.99,4.8,5432
+B08K3S6WJS,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,129.99,4.7,8765
+B08F7H7J9V,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,449.99,4.6,5432
+B08N5K5D5S,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,179.99,4.7,4321
+B08HR5SXPS,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,169.99,4.6,3214
+B08L8J1G3Q,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,24.99,4.5,7654
+B08L3QCZZX,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,149.95,4.7,5432
+B08K3Y2D5T,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,95,4.8,4321
+B08HRJV5FP,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,199.99,4.6,3215
+B08F2T4L2G,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,299,4.8,7654
+B08N5K5D5T,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,429.99,4.9,5432
+B08L8J1G3W,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,52.99,4.5,3214
+B08K3Y2D5U,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,149.95,4.6,4321
+B08HRJV5FQ,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,299.99,4.7,3215
+B08F2T4L2H,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,549,4.8,5432
+B08N5K5D5U,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,69,4.7,4321
+B08L8J1G3X,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.99,4.6,3214
+B08K3Y2D5V,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,199.99,4.7,5432
+B08HRJV5FR,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,34.99,4.8,4321
+B08F2T4L2I,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,599,4.8,7654
+B08N5K5D5V,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,299.95,4.7,5432
+B08L8J1G3Y,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,189.99,4.5,4321
+B08K3Y2D5W,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,449.99,4.7,5432
+B08HRJV5FS,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,29.99,4.8,3215
+B08F2T4L2J,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,348,4.8,7654
+B08N5K5D5W,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",849.99,4.9,3214
+B08L8J1G3Z,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,49.99,4.4,5432
+B08K3Y2D5X,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,139,4.7,4321
+B08HRJV5FT,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,35,4.6,3215
+B08F2T4L2K,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,999,4.9,8765
+SKU000001,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,29.24,5,59156
+SKU000002,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,379.37,5,10376
+SKU000003,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,313.91,4.2,63740
+SKU000004,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",437.46,4.4,102341
+SKU000005,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,324.06,4.6,5964
+SKU000006,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,13.96,4.6,10017
+SKU000007,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,22.78,4.7,9140
+SKU000008,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,107.31,4.6,5500
+SKU000009,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,96.92,4.9,3479
+SKU000010,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",885.36,4.7,2290
+SKU000011,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),45.2,4.4,52636
+SKU000012,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,492.28,4.3,4367
+SKU000013,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",106.6,4.4,29324
+SKU000014,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,65.03,4.3,6214
+SKU000015,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,23.4,4.2,10495
+SKU000016,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,187.33,4.9,4070
+SKU000017,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,96.08,4.5,6998
+SKU000018,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,701.45,5,37448
+SKU000019,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,590.85,4.9,5819
+SKU000020,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,668.85,4.8,45234
+SKU000021,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,70.54,4.4,5058
+SKU000022,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,32.48,4.8,3409
+SKU000023,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,33.54,4.6,2640
+SKU000024,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,582.99,4.8,7248
+SKU000025,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,544.18,5,5216
+SKU000026,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,317.1,4.7,4387
+SKU000027,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,46.99,4.7,5685
+SKU000028,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,180.5,4.5,3804
+SKU000029,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,132.39,4.7,12944
+SKU000030,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,226.41,5,78632
+SKU000031,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,153.18,4.4,3986
+SKU000032,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,64.45,5,2342
+SKU000033,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,45.64,4.6,6735
+SKU000034,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,32.68,4.6,10853
+SKU000035,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,43.73,4.8,2507
+SKU000036,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,582.86,5,7378
+SKU000037,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,432.41,4.9,4303
+SKU000038,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,13.78,4.1,12365
+SKU000039,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,360.82,4.6,9597
+SKU000040,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,444.6,4.6,7088
+SKU000041,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,277.31,4.7,1665
+SKU000042,Xbox Series S,Gaming,Next-gen console with 512GB SSD,299.7,4.9,79461
+SKU000043,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,22.66,4.6,9388
+SKU000044,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),54.08,4.2,79445
+SKU000045,Xbox Series S,Gaming,Next-gen console with 512GB SSD,285.52,4.8,72214
+SKU000046,Xbox Series S,Gaming,Next-gen console with 512GB SSD,309.74,4.9,42453
+SKU000047,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,576.44,5,10507
+SKU000048,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,15.05,4.9,5369
+SKU000049,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",100.88,5,30609
+SKU000050,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,159.28,4.7,3344
+SKU000051,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,492.25,4.7,3240
+SKU000052,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,631.96,4.3,5678
+SKU000053,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,206.69,4.6,2214
+SKU000054,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,183.41,4.7,3113
+SKU000055,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,35.68,4.9,3462
+SKU000056,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,595.32,4.4,5966
+SKU000057,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,45.88,4.4,68277
+SKU000058,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,938.26,5,7011
+SKU000059,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,11.81,4.6,3995
+SKU000060,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,28.94,5,1762
+SKU000061,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,29.32,4.8,4510
+SKU000062,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,285.33,4.8,10350
+SKU000063,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,213.14,5,6343
+SKU000064,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,291.4,4.5,3514
+SKU000065,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,28.68,4.8,122040
+SKU000066,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,40.34,4.5,2202
+SKU000067,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.06,4.5,1860
+SKU000068,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,31.8,4.7,2377
+SKU000069,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,32.02,4.7,4162
+SKU000070,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,16.45,4.5,4686
+SKU000071,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",452.36,5,82881
+SKU000072,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,32.89,4.3,4807
+SKU000073,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,45.05,4.3,7364
+SKU000074,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,31.88,4.7,89533
+SKU000075,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,207.23,4.9,24357
+SKU000076,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,188.23,4.8,5752
+SKU000077,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,42.17,4.9,3532
+SKU000078,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",365.91,4.5,40236
+SKU000079,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,417.82,5,3225
+SKU000080,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,92.31,5,7657
+SKU000081,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,16.08,4.6,10248
+SKU000082,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,461.09,4.9,7220
+SKU000083,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.55,4.4,4432
+SKU000084,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,181.63,4.9,46316
+SKU000085,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,240.54,5,5515
+SKU000086,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",386.01,4.8,60879
+SKU000087,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,177.8,4.5,2625
+SKU000088,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,82.19,5,5076
+SKU000089,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,183.15,5,4094
+SKU000090,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,29.82,4.6,96587
+SKU000091,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,13.85,4.6,75643
+SKU000092,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,26.06,4.4,7220
+SKU000093,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,315.59,4.3,6013
+SKU000094,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,352.26,4.5,8659
+SKU000095,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,26.34,4.2,8355
+SKU000096,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,49.93,4.2,6532
+SKU000097,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,53.23,4.5,2370
+SKU000098,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",422.78,4.9,77489
+SKU000099,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,180.11,5,26111
+SKU000100,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,276.46,4.5,77530
+SKU000101,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,13.59,4.9,8656
+SKU000102,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,462.27,4.5,6258
+SKU000103,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,24.06,4.5,11102
+SKU000104,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,100.16,5,5978
+SKU000105,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,140.59,4.4,10900
+SKU000106,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,284.95,4.9,88203
+SKU000107,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,25.52,4.6,112009
+SKU000108,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,15.76,4.8,31013
+SKU000109,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,283.72,4.9,66125
+SKU000110,Xbox Series S,Gaming,Next-gen console with 512GB SSD,274.61,5,46816
+SKU000111,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,133.16,4.5,4202
+SKU000112,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",372.89,4.7,35702
+SKU000113,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1084.85,4.7,5609
+SKU000114,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,477.72,4.4,4219
+SKU000115,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,205.33,4.4,4730
+SKU000116,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,85.93,5,4515
+SKU000117,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,456.11,5,5334
+SKU000118,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,280.26,4.6,5327
+SKU000119,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,37.74,4.6,4799
+SKU000120,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,553.32,4.9,4240
+SKU000121,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,84.91,4.5,3840
+SKU000122,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,205.04,4.7,4392
+SKU000123,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,33.72,4.9,2184
+SKU000124,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,13.82,4.1,4449
+SKU000125,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,24.58,5,71018
+SKU000126,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,423.72,5,2915
+SKU000127,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,191.44,4.5,2627
+SKU000128,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,588.61,4.7,4556
+SKU000129,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,27.03,4.9,4187
+SKU000130,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,348.75,4.9,8205
+SKU000131,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,295.03,4.9,3255
+SKU000132,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,47.21,5,67955
+SKU000133,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12,4.5,4601
+SKU000134,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,435.38,4.5,4872
+SKU000135,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,652.06,4.4,4493
+SKU000136,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,24.11,4.3,8550
+SKU000137,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,451.68,4.6,3334
+SKU000138,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,31.21,5,2717
+SKU000139,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,34.04,4.6,4353
+SKU000140,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,16.4,4.8,74649
+SKU000141,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,38.24,4.6,3194
+SKU000142,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",142.51,5,51955
+SKU000143,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,199.88,5,4799
+SKU000144,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,124.81,4.5,5535
+SKU000145,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,162.68,4.5,2489
+SKU000146,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,31.75,4.6,48594
+SKU000147,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,81.74,4.9,5007
+SKU000148,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,150.03,5,3936
+SKU000149,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,181.15,4.7,60829
+SKU000150,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,332.59,4.7,9292
+SKU000151,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,205.5,4.7,4787
+SKU000152,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,28.43,5,2602
+SKU000153,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),46.44,4.8,130685
+SKU000154,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,547.84,5,7903
+SKU000155,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,208.44,4.8,5708
+SKU000156,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,284.51,5,1612
+SKU000157,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,309.29,5,8698
+SKU000158,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,36.82,4.5,29938
+SKU000159,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,33.15,4.2,41153
+SKU000160,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,83.64,4.7,3039
+SKU000161,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,51.59,4.9,3547
+SKU000162,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,54.39,4.3,3813
+SKU000163,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,563.66,4.9,3337
+SKU000164,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,35.24,4.7,3819
+SKU000165,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",780.34,4.9,3073
+SKU000166,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,213.4,5,2794
+SKU000167,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,33.75,4.7,1996
+SKU000168,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,187.45,4.6,2954
+SKU000169,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,27.24,4.4,4022
+SKU000170,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,202.62,4.7,24676
+SKU000171,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,31.06,5,1865
+SKU000172,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,45.16,5,4643
+SKU000173,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",430.04,4.7,110354
+SKU000174,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,282.64,4.9,8944
+SKU000175,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,174.93,4.7,3788
+SKU000176,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,32.71,5,3724
+SKU000177,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,31.14,4.8,8370
+SKU000178,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,243.36,4.7,65680
+SKU000179,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",108.68,4.9,28890
+SKU000180,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,277.32,4.9,10817
+SKU000181,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,33.89,4.5,3576
+SKU000182,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,46.13,4.8,117646
+SKU000183,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,377.56,5,9368
+SKU000184,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,27.95,4.3,61289
+SKU000185,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,284.52,4.8,10734
+SKU000186,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1030.96,4.7,4964
+SKU000187,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",159.46,5,44682
+SKU000188,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,80.87,4.2,3488
+SKU000189,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,13.07,4.4,1644
+SKU000190,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,161.21,4.7,2963
+SKU000191,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,127.69,5,3435
+SKU000192,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",107.89,4.7,25073
+SKU000193,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",918.06,4.7,3462
+SKU000194,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,15.39,5,29536
+SKU000195,Xbox Series S,Gaming,Next-gen console with 512GB SSD,290.33,4.3,33842
+SKU000196,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.54,4,57506
+SKU000197,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,36.58,4.7,2710
+SKU000198,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,194.29,4.5,5311
+SKU000199,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",161.56,4.5,49796
+SKU000200,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,31.67,5,117947
+SKU000201,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,13.36,4.7,3832
+SKU000202,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,11.91,4.4,2988
+SKU000203,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,419.54,4.3,6371
+SKU000204,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,269.92,5,4203
+SKU000205,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,35.73,5,3484
+SKU000206,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",766.55,4.9,4142
+SKU000207,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,165.64,5,4089
+SKU000208,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,720.81,4.4,41736
+SKU000209,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,31.53,3.8,71835
+SKU000210,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,279.64,4.5,4364
+SKU000211,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,171.65,4.6,4553
+SKU000212,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,311.5,4.9,81604
+SKU000213,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",154.51,4.7,35387
+SKU000214,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",377.93,5,70810
+SKU000215,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,31.26,4.4,6667
+SKU000216,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,189.48,5,3539
+SKU000217,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,335.85,4.8,9227
+SKU000218,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",891.89,5,3819
+SKU000219,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",441.84,4.9,66940
+SKU000220,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,481.42,4.8,3622
+SKU000221,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,309.45,4.9,2991
+SKU000222,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,25.33,4.6,4918
+SKU000223,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,275.57,4.9,7551
+SKU000224,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,34.07,5,2719
+SKU000225,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,47.64,4.8,56049
+SKU000226,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,237.19,5,2848
+SKU000227,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,272.56,4.6,147528
+SKU000228,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,243.68,5,146379
+SKU000229,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,53.91,4.2,4566
+SKU000230,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,461.79,5,3105
+SKU000231,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,37.06,4.6,2924
+SKU000232,Xbox Series S,Gaming,Next-gen console with 512GB SSD,300.15,4.3,44066
+SKU000233,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,557.44,4.8,6394
+SKU000234,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,29.95,4.6,8463
+SKU000235,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,32.87,4.9,2779
+SKU000236,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,198.44,4.3,3102
+SKU000237,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,524.93,4.7,8083
+SKU000238,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,903.96,4.3,8361
+SKU000239,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,82.32,4.6,6454
+SKU000240,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,14.02,3.9,5614
+SKU000241,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,195.85,4.2,4258
+SKU000242,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,54.53,4.9,45179
+SKU000243,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,57.39,4.7,3231
+SKU000244,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,534.74,4.9,7952
+SKU000245,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,180.61,4.4,4803
+SKU000246,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,37.99,4.3,29278
+SKU000247,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,49.27,4.4,2884
+SKU000248,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,185.86,4.3,2853
+SKU000249,Xbox Series S,Gaming,Next-gen console with 512GB SSD,327.81,5,35853
+SKU000250,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",160.54,5,22616
+SKU000251,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,24.92,4.5,124069
+SKU000252,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.69,4.6,3080
+SKU000253,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,321.06,4.8,2537
+SKU000254,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,672.43,4.1,45005
+SKU000255,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,280.12,4.6,3346
+SKU000256,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,50.56,4.5,124687
+SKU000257,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,103.29,4.5,3517
+SKU000258,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,207.83,4.5,4463
+SKU000259,Xbox Series S,Gaming,Next-gen console with 512GB SSD,304.19,5,59912
+SKU000260,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,45.96,4.9,113621
+SKU000261,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,173.9,4.4,4769
+SKU000262,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,329.39,4.9,2534
+SKU000263,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,27.83,5,128074
+SKU000264,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,190.69,4.8,3843
+SKU000265,Xbox Series S,Gaming,Next-gen console with 512GB SSD,322.63,4.7,48101
+SKU000266,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,15.71,4.5,45650
+SKU000267,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,622.6,5,7970
+SKU000268,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,176.87,4.7,2102
+SKU000269,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,242,4.9,135668
+SKU000270,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,669.18,4.9,33485
+SKU000271,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,318.55,5,4057
+SKU000272,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,191.15,4.5,5762
+SKU000273,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,16.09,5,51085
+SKU000274,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,216.52,4.8,4358
+SKU000275,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",400.9,5,49684
+SKU000276,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,249.08,4.4,89434
+SKU000277,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,147.29,5,2409
+SKU000278,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,25.74,4.6,6448
+SKU000279,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,83.22,4.5,4183
+SKU000280,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,264.78,4.8,7949
+SKU000281,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,14,4.5,3399
+SKU000282,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,134.5,4.8,3661
+SKU000283,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,34.12,4.5,58692
+SKU000284,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,87.29,4.6,2761
+SKU000285,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,252.9,4.6,121548
+SKU000286,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,31.74,4.9,61178
+SKU000287,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,14.89,5,8667
+SKU000288,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1007.52,5,7904
+SKU000289,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,573.43,4.8,11433
+SKU000290,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,354.32,4.8,10564
+SKU000291,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,48.01,4.7,3610
+SKU000292,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,181.48,4.3,3438
+SKU000293,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,53.22,4.6,95975
+SKU000294,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,582.25,4.3,5367
+SKU000295,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,277.61,4.8,2877
+SKU000296,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,601.66,5,4129
+SKU000297,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,158.05,4.6,5299
+SKU000298,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,33,4.8,56658
+SKU000299,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,356.55,4.4,5570
+SKU000300,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,137.51,4.2,6326
+SKU000301,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,227.57,5,7640
+SKU000302,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,181.12,5,5280
+SKU000303,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,40.33,5,3321
+SKU000304,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,204.47,4.4,59203
+SKU000305,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,626.09,5,4827
+SKU000306,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,104.04,4.8,5576
+SKU000307,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,150.44,4.5,2699
+SKU000308,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,134.08,5,5592
+SKU000309,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,317.66,4.9,4213
+SKU000310,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,33.39,3.8,74804
+SKU000311,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,444.5,5,7844
+SKU000312,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,318.66,5,4965
+SKU000313,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,153.85,4.4,3094
+SKU000314,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,207.57,4.6,6399
+SKU000315,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,73.64,4.8,4249
+SKU000316,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,155.83,4.8,7406
+SKU000317,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,196.35,4.5,5913
+SKU000318,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,280.39,4.6,76726
+SKU000319,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,231.89,4.6,101171
+SKU000320,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,427.51,5,3819
+SKU000321,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,351.43,5,9657
+SKU000322,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,448.44,4.8,4815
+SKU000323,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,464.41,4.8,5493
+SKU000324,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,181.63,3.6,4287
+SKU000325,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",468.03,5,82458
+SKU000326,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,55.51,4,4388
+SKU000327,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,454.88,4.6,8043
+SKU000328,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,305.68,4.5,6946
+SKU000329,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,34.43,4.4,5736
+SKU000330,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,408.3,5,6868
+SKU000331,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,77.69,4.6,5831
+SKU000332,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,72.56,4.8,6291
+SKU000333,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),45.13,4.6,69151
+SKU000334,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,23.99,4.7,60173
+SKU000335,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,31.81,4.3,73548
+SKU000336,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,181.62,4.2,3019
+SKU000337,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,32.12,5,118067
+SKU000338,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,36.42,4.7,6019
+SKU000339,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),49.73,4.1,55526
+SKU000340,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,48.73,4.4,4446
+SKU000341,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,34.93,4.8,51513
+SKU000342,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",845.48,5,3247
+SKU000343,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,140.15,4.6,6119
+SKU000344,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,34.54,4.5,4585
+SKU000345,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,293.86,4.6,2819
+SKU000346,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,15.34,5,8562
+SKU000347,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,615.18,4.9,9090
+SKU000348,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,390.89,5,6641
+SKU000349,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,292.47,5,3833
+SKU000350,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,184.52,4.8,2741
+SKU000351,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,348.22,4.7,6118
+SKU000352,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,588.14,4.7,4664
+SKU000353,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,143.41,4.7,5636
+SKU000354,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,233.14,4.9,4221
+SKU000355,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,36.56,4.8,2284
+SKU000356,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,307.52,4.8,11155
+SKU000357,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,271.58,5,44603
+SKU000358,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",436.36,4.8,114647
+SKU000359,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,326.36,4.7,6392
+SKU000360,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,53.79,3.9,4269
+SKU000361,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,293.28,5,2554
+SKU000362,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,97.72,4.9,2222
+SKU000363,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.86,5,67242
+SKU000364,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,301.73,3.9,10211
+SKU000365,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,14.14,5,3986
+SKU000366,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,195.43,4.6,2066
+SKU000367,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,141.98,5,10986
+SKU000368,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",162.11,4.5,54836
+SKU000369,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,28.17,5,8867
+SKU000370,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,48.43,4.2,4069
+SKU000371,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,63.49,4.5,5815
+SKU000372,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,902.74,5,9760
+SKU000373,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",137.79,4.7,25436
+SKU000374,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,155.44,4.8,5364
+SKU000375,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,13.7,4.9,5063
+SKU000376,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,28.9,4.9,79549
+SKU000377,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,138.96,4.7,7950
+SKU000378,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,13.56,4.7,4961
+SKU000379,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",455.98,5,64971
+SKU000380,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",95.59,4.7,15537
+SKU000381,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,120.06,4.8,11466
+SKU000382,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,25.97,4.8,11080
+SKU000383,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,82.05,5,3108
+SKU000384,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1074.42,5,12754
+SKU000385,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,27.21,4.8,100994
+SKU000386,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,53.02,4.1,4343
+SKU000387,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,191.27,5,1854
+SKU000388,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,28.06,4.5,87708
+SKU000389,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,72.46,4.8,5593
+SKU000390,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,582.69,4.6,6556
+SKU000391,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,32.93,4.8,48229
+SKU000392,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,294.75,4.9,50217
+SKU000393,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,194.87,4.7,2902
+SKU000394,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,736.58,4.8,25564
+SKU000395,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,145.18,5,3164
+SKU000396,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,271.53,5,4233
+SKU000397,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,53.57,4.3,7080
+SKU000398,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.78,5,77637
+SKU000399,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,55.65,4.9,2909
+SKU000400,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,733.52,4.3,45199
+SKU000401,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,414.27,4.8,4462
+SKU000402,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,27,4.7,7473
+SKU000403,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,300.31,4.6,2334
+SKU000404,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",905.49,5,3665
+SKU000405,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,289.19,4.7,4754
+SKU000406,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,215.81,4.6,3547
+SKU000407,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",146.63,4.7,37070
+SKU000408,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,13.52,4.6,10060
+SKU000409,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,593.51,4.5,3383
+SKU000410,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,32.13,3.9,75433
+SKU000411,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,289.11,5,5448
+SKU000412,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,38.14,4.5,4102
+SKU000413,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,16.34,4.4,58985
+SKU000414,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,202.93,4,3616
+SKU000415,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,205.26,4.4,1838
+SKU000416,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,690.79,4.3,38015
+SKU000417,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,50.8,5,2384
+SKU000418,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),48.28,4.9,119842
+SKU000419,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,51.71,4.2,7184
+SKU000420,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,27.3,5,128785
+SKU000421,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,31.74,5,8055
+SKU000422,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,137.52,4.6,8941
+SKU000423,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,640.92,4,20665
+SKU000424,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,149.78,5,6927
+SKU000425,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,45.57,4.3,66065
+SKU000426,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,15.14,4.1,8736
+SKU000427,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,29.64,5,2521
+SKU000428,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,102.37,5,2738
+SKU000429,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,194.03,5,3631
+SKU000430,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,92.33,5,3011
+SKU000431,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,46.42,4.6,6782
+SKU000432,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,209.41,4.8,35332
+SKU000433,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,13.3,4.8,1607
+SKU000434,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,27.6,4.9,7739
+SKU000435,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,229.2,4.9,2964
+SKU000436,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,41.61,4.6,2494
+SKU000437,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,227.72,4.4,155401
+SKU000438,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,53.21,4.6,48189
+SKU000439,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",104.07,4.2,34059
+SKU000440,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,183.24,4.7,2736
+SKU000441,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,13.75,4.4,40568
+SKU000442,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,329.19,4.4,3989
+SKU000443,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,535.19,4.9,4433
+SKU000444,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,34.09,5,1935
+SKU000445,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,180.62,4.9,2764
+SKU000446,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,196.09,4.2,3328
+SKU000447,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,32.91,4.5,117694
+SKU000448,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,84.04,5,4418
+SKU000449,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.62,4.4,70016
+SKU000450,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,27.49,4.7,4474
+SKU000451,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,210.03,4.7,40354
+SKU000452,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,151.7,4.4,7658
+SKU000453,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",393.93,4.9,57404
+SKU000454,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",919.07,4.5,4705
+SKU000455,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,156.77,4.4,1893
+SKU000456,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,14.97,4.7,10404
+SKU000457,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,180.45,4.1,3195
+SKU000458,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",397.48,5,58080
+SKU000459,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,13.66,4.7,61530
+SKU000460,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,138.52,4.9,6539
+SKU000461,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",784.97,5,1621
+SKU000462,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1028.81,5,5845
+SKU000463,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,314.75,4.8,106328
+SKU000464,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,50.82,4.6,99891
+SKU000465,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,218.48,4.6,4713
+SKU000466,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,29.24,5,4054
+SKU000467,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,172.28,4.7,6268
+SKU000468,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,53.68,4.7,102987
+SKU000469,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,28.33,4.6,6108
+SKU000470,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",928.74,4.7,1945
+SKU000471,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,13.53,4.3,69629
+SKU000472,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,185.96,5,3677
+SKU000473,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,271.68,4.4,4195
+SKU000474,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,28.02,4.4,84942
+SKU000475,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,301.65,4.6,127694
+SKU000476,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,16.47,4.9,8768
+SKU000477,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,27.43,4.7,2998
+SKU000478,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,30.31,5,7330
+SKU000479,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,75.48,4.5,3063
+SKU000480,Xbox Series S,Gaming,Next-gen console with 512GB SSD,301.38,4.8,47189
+SKU000481,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,205.17,4.4,4724
+SKU000482,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,144.44,5,2386
+SKU000483,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,128.81,4.3,11110
+SKU000484,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),51.27,4.7,90478
+SKU000485,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,183.03,4.9,5713
+SKU000486,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",432.08,5,88355
+SKU000487,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,634.54,4.6,22887
+SKU000488,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,33.46,4.3,62868
+SKU000489,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,16.34,4.6,8522
+SKU000490,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",431.21,4.9,90306
+SKU000491,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,99.1,5,3887
+SKU000492,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,81.91,5,6397
+SKU000493,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,285.69,4.6,8478
+SKU000494,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,75,4.3,4320
+SKU000495,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",843.82,4.9,2046
+SKU000496,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,48.52,5,6255
+SKU000497,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,437.18,4.7,6728
+SKU000498,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,183.1,5,4430
+SKU000499,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,58.02,5,3679
+SKU000500,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,765.86,4.5,28773
+SKU000501,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,361.79,5,9285
+SKU000502,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,171.22,5,2247
+SKU000503,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,144.24,4.5,6007
+SKU000504,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,212.54,4.6,4277
+SKU000505,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,311.03,4.5,4713
+SKU000506,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",373,4.6,36517
+SKU000507,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,755.35,4.5,19657
+SKU000508,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,138.38,4.3,8904
+SKU000509,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,196.18,4.7,3316
+SKU000510,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,313.49,4.5,7254
+SKU000511,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,15.33,4.7,4511
+SKU000512,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,29.5,4.3,77056
+SKU000513,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",923.55,5,2691
+SKU000514,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,56.87,4.8,1669
+SKU000515,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,13.63,4.1,33916
+SKU000516,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,180.15,4.6,39483
+SKU000517,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,126.78,5,8702
+SKU000518,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,100.9,4.4,3907
+SKU000519,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,32.91,5,7890
+SKU000520,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,139.47,4.7,4732
+SKU000521,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",437.08,4.6,39031
+SKU000522,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,584.73,4.8,7379
+SKU000523,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,57.97,4.7,4703
+SKU000524,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1067.36,4.9,8931
+SKU000525,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,160.1,4.8,5088
+SKU000526,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),49.68,4.3,80148
+SKU000527,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,147.4,4.7,5504
+SKU000528,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,143.15,4.2,5500
+SKU000529,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,273.34,4.7,5547
+SKU000530,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,37.54,4,80178
+SKU000531,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,317.71,4.6,4787
+SKU000532,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,164.94,5,2233
+SKU000533,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,38.47,4.6,68996
+SKU000534,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,25.27,4.7,10004
+SKU000535,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,136.98,4.4,5436
+SKU000536,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,38.1,4.7,3308
+SKU000537,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),53.49,5,51093
+SKU000538,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,189.88,4.7,4309
+SKU000539,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,34.64,5,5501
+SKU000540,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,23.14,4.6,7791
+SKU000541,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",927.18,5,2725
+SKU000542,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1020.21,4.8,7640
+SKU000543,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.18,4.7,27234
+SKU000544,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,310.29,4.7,2571
+SKU000545,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,194.48,4.7,4953
+SKU000546,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,29.14,5,4739
+SKU000547,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,32.29,4.4,4330
+SKU000548,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,619.55,4.4,4007
+SKU000549,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,700.82,4.1,44956
+SKU000550,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,52.71,4.9,109895
+SKU000551,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,251,4.6,6940
+SKU000552,Xbox Series S,Gaming,Next-gen console with 512GB SSD,321.12,4.1,52039
+SKU000553,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,252.59,5,4868
+SKU000554,Xbox Series S,Gaming,Next-gen console with 512GB SSD,303.65,5,43615
+SKU000555,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,37.63,4.8,2444
+SKU000556,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,421.69,5,3955
+SKU000557,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,49.11,4.5,2399
+SKU000558,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,271.68,4.7,5345
+SKU000559,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1049.98,5,10933
+SKU000560,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,30.71,4.7,85358
+SKU000561,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",416.32,5,36500
+SKU000562,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",377.03,5,95386
+SKU000563,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,926.35,4.7,12645
+SKU000564,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,85.78,5,5553
+SKU000565,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,29.09,4.7,11414
+SKU000566,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,50.89,4.2,5673
+SKU000567,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,293.52,5,128217
+SKU000568,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,689.26,4.4,18502
+SKU000569,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,32.41,4.8,6625
+SKU000570,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,192.96,4.5,31347
+SKU000571,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",150.37,5,30070
+SKU000572,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,264.17,5,3473
+SKU000573,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,127.3,4.7,9837
+SKU000574,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,25.6,4.7,9807
+SKU000575,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,53.61,5,92347
+SKU000576,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,326.92,4.9,3514
+SKU000577,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,176.58,4.5,5665
+SKU000578,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,28.21,4.2,112192
+SKU000579,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,696.89,4.4,28550
+SKU000580,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,76.12,4.6,6377
+SKU000581,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,29.74,4.6,66608
+SKU000582,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,493.19,4.5,4591
+SKU000583,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,29.95,4.8,124248
+SKU000584,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,33.79,4.5,42940
+SKU000585,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,174.53,4.6,3117
+SKU000586,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,329.91,4.9,10640
+SKU000587,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,36.61,4.6,3881
+SKU000588,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",786.9,4.3,1806
+SKU000589,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,63.87,4.4,2796
+SKU000590,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,323.77,4.8,3887
+SKU000591,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",371.1,4.5,73998
+SKU000592,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,205.62,4.8,3046
+SKU000593,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,49.62,5,2038
+SKU000594,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,29.06,5,4687
+SKU000595,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,86.34,4.6,5593
+SKU000596,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,248.69,5,4021
+SKU000597,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,82.67,4.7,5435
+SKU000598,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,37.38,4.5,3791
+SKU000599,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,121.99,4.5,5050
+SKU000600,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,11.8,4.5,2489
+SKU000601,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,49.48,4.4,4200
+SKU000602,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,286.67,4.8,5212
+SKU000603,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,46.76,4.7,89630
+SKU000604,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,87.19,4.8,4030
+SKU000605,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",396.45,4.9,41631
+SKU000606,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,544.69,5,3616
+SKU000607,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,188.24,4.9,3039
+SKU000608,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.58,4.3,38523
+SKU000609,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,150.05,3.8,2376
+SKU000610,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,311.41,5,117776
+SKU000611,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,27.23,4.4,129832
+SKU000612,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,37.1,4.5,4157
+SKU000613,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,306.65,4.4,10361
+SKU000614,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,91.63,4.3,4030
+SKU000615,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,462.12,5,7934
+SKU000616,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,195.14,4.9,3011
+SKU000617,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,27.36,4.6,11109
+SKU000618,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.41,3.8,4804
+SKU000619,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",159.13,4.6,52364
+SKU000620,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,99.72,4.9,6400
+SKU000621,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,28.1,4.4,3438
+SKU000622,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,28.25,4.9,5813
+SKU000623,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,175.33,4.7,4048
+SKU000624,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,995.91,5,9585
+SKU000625,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,35.83,4.6,1842
+SKU000626,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,51.6,4.2,3607
+SKU000627,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,297.7,5,8045
+SKU000628,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,72.42,4.7,2981
+SKU000629,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,272.19,4.7,4155
+SKU000630,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,65.58,4.4,6083
+SKU000631,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),52.12,4.5,142523
+SKU000632,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,16.17,4.4,79316
+SKU000633,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,300.69,4.6,3283
+SKU000634,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,69.44,5,6383
+SKU000635,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,230.35,4.5,6815
+SKU000636,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,34.62,4.3,2859
+SKU000637,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,191.23,4.9,4221
+SKU000638,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,28.45,4.7,106791
+SKU000639,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,47.68,4.5,64003
+SKU000640,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,339.46,5,8730
+SKU000641,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,72.31,4.5,6336
+SKU000642,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,577.69,5,5072
+SKU000643,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,94.22,5,5785
+SKU000644,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.47,4.6,69076
+SKU000645,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,138.55,5,4316
+SKU000646,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,591.88,4.6,2781
+SKU000647,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,25.46,4.7,3896
+SKU000648,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",414.32,5,56077
+SKU000649,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,72.99,5,6162
+SKU000650,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,138.96,5,3148
+SKU000651,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,274.3,4.8,8682
+SKU000652,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,453.33,4.4,3922
+SKU000653,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,193.29,4.6,3550
+SKU000654,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,31.46,4.6,4333
+SKU000655,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,25.63,5,121368
+SKU000656,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,24.05,4.6,58804
+SKU000657,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),47.83,4.5,91682
+SKU000658,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.63,4.7,1700
+SKU000659,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,256.27,4.2,126292
+SKU000660,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,202.82,4.4,6314
+SKU000661,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,337.98,5,4734
+SKU000662,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,329.14,4.5,4285
+SKU000663,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,51.05,4.1,4877
+SKU000664,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,24.62,4.8,140199
+SKU000665,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,32.2,5,6452
+SKU000666,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,158.19,4.8,1751
+SKU000667,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,28.47,5,9651
+SKU000668,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),46.6,4.4,86057
+SKU000669,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,32.8,4.4,3856
+SKU000670,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,239.25,5,6799
+SKU000671,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,14.01,4.5,12432
+SKU000672,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,183.48,4.5,4663
+SKU000673,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,87.02,5,4654
+SKU000674,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),50.24,4.8,84615
+SKU000675,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,539.16,4.9,6993
+SKU000676,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,14.24,5,2413
+SKU000677,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,229.68,4.4,137002
+SKU000678,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",97.91,5,21833
+SKU000679,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,655.24,4.8,8852
+SKU000680,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,32.18,4.9,64898
+SKU000681,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,73.38,5,2988
+SKU000682,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,331.15,5,10855
+SKU000683,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,420.37,4.8,3268
+SKU000684,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,51.68,4.7,5464
+SKU000685,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,466.92,4.8,3915
+SKU000686,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,705.91,4.4,17323
+SKU000687,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",435.14,4.5,41028
+SKU000688,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,47.79,4.1,57827
+SKU000689,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,27.39,5,134989
+SKU000690,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,186.54,4.2,33814
+SKU000691,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",413.87,4.7,111022
+SKU000692,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,197.01,4.5,3477
+SKU000693,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",429.65,4.9,71691
+SKU000694,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,28.44,5,94674
+SKU000695,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,275.97,5,7781
+SKU000696,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,306.59,4.5,6837
+SKU000697,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",95.72,4.6,19898
+SKU000698,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,253.05,4.7,109832
+SKU000699,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,27.92,4.7,10670
+SKU000700,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",398.48,5,94644
+SKU000701,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,452.92,4.8,7564
+SKU000702,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,27.3,5,80593
+SKU000703,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",96.68,4.9,32559
+SKU000704,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,27.8,5,7472
+SKU000705,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,86.7,4.9,4310
+SKU000706,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,494.09,4.3,3827
+SKU000707,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.53,4.7,3506
+SKU000708,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,53.09,4.2,3727
+SKU000709,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.35,4.4,2672
+SKU000710,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,31.08,5,118773
+SKU000711,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,13.67,5,2272
+SKU000712,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,35.67,4.6,1836
+SKU000713,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,34.8,4.7,1829
+SKU000714,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,29.46,5,4632
+SKU000715,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,92.13,4.9,4350
+SKU000716,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,54.28,5,4939
+SKU000717,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,15.98,4.9,71208
+SKU000718,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,273.24,4.4,7241
+SKU000719,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,27.74,5,2675
+SKU000720,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,31.37,4.9,9135
+SKU000721,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1086.58,5,11141
+SKU000722,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,24.33,4.8,114039
+SKU000723,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),45.66,4.6,64326
+SKU000724,Xbox Series S,Gaming,Next-gen console with 512GB SSD,314.46,4.3,74739
+SKU000725,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,13.18,4.5,3339
+SKU000726,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,32.04,4.5,5989
+SKU000727,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,23.19,4.3,7081
+SKU000728,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,211.8,4.8,1728
+SKU000729,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",93.99,5,15966
+SKU000730,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,512.07,4.9,6874
+SKU000731,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,233.2,4.5,2710
+SKU000732,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,13.81,4.7,2945
+SKU000733,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,257.23,5,131651
+SKU000734,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,150.64,4.4,2396
+SKU000735,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,34.01,4.6,4735
+SKU000736,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,27.95,4.6,71715
+SKU000737,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,29.34,4.6,70491
+SKU000738,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,202.02,4.7,3473
+SKU000739,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,29.62,4.8,5590
+SKU000740,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,974.41,5,4395
+SKU000741,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,178.65,4.4,5311
+SKU000742,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,432.11,4.6,7967
+SKU000743,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,314.85,4.9,2328
+SKU000744,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,170.08,4.5,3738
+SKU000745,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,945.5,5,10885
+SKU000746,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,215.97,4.5,4335
+SKU000747,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,34.18,4.9,3986
+SKU000748,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,433.74,5,4361
+SKU000749,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,54.05,4,4483
+SKU000750,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,461.17,4.2,6586
+SKU000751,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,922.46,4.4,11541
+SKU000752,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,489.57,5,3702
+SKU000753,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,30.76,4.6,2800
+SKU000754,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,193.39,5,7615
+SKU000755,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,27.83,4.6,10001
+SKU000756,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,476.45,4.7,8065
+SKU000757,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,356.36,5,9600
+SKU000758,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,200.33,5,38599
+SKU000759,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1077.7,5,9559
+SKU000760,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,200.96,4.9,5016
+SKU000761,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",372.12,5,37849
+SKU000762,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,961.38,5,9155
+SKU000763,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,94.96,5,6569
+SKU000764,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",104.83,4.5,16969
+SKU000765,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",362.67,4.7,83794
+SKU000766,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,202.79,4.6,3484
+SKU000767,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,55.77,4.4,4667
+SKU000768,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,215.06,4.6,2946
+SKU000769,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,241.14,4.8,98538
+SKU000770,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,53.2,4.7,5983
+SKU000771,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,119.87,4.7,6981
+SKU000772,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,53.45,4.8,6596
+SKU000773,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,277.64,4.4,4047
+SKU000774,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",97.9,4.6,15321
+SKU000775,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,26.48,4.3,7760
+SKU000776,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,418.48,4.1,5480
+SKU000777,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",405.77,4.8,66537
+SKU000778,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,312.29,4.8,10967
+SKU000779,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,1042.96,5,11635
+SKU000780,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,82.25,4.9,6503
+SKU000781,The Lean Startup by Eric Ries,Books,New York Times bestseller about entrepreneurship,15.57,4.3,10643
+SKU000782,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,25.2,5,7360
+SKU000783,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",380.13,5,92978
+SKU000784,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,48.45,4.6,6489
+SKU000785,Apple iPad Air (4th Gen),Electronics,10.9-inch Liquid Retina display with A14 Bionic chip,560.86,4.7,9406
+SKU000786,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,37.86,4.3,4377
+SKU000787,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,30.49,4.7,67850
+SKU000788,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,146.98,5,7100
+SKU000789,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",396.95,5,45490
+SKU000790,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,185.2,5,2716
+SKU000791,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",791.06,4.8,2685
+SKU000792,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",152.54,4.5,63894
+SKU000793,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,150.13,4.6,5861
+SKU000794,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",102.18,4.2,30545
+SKU000795,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,36.14,4.7,3943
+SKU000796,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,461.99,4.9,5769
+SKU000797,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,216.2,4.4,62536
+SKU000798,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,26.33,4.1,98395
+SKU000799,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,144.47,4.9,3804
+SKU000800,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,270.04,4.4,85367
+SKU000801,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,312.38,4.3,6986
+SKU000802,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,23.25,3.6,9448
+SKU000803,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,96.45,4.8,3821
+SKU000804,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),51.06,5,51847
+SKU000805,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,983.84,5,11736
+SKU000806,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,261.81,4.8,2772
+SKU000807,Xbox Series S,Gaming,Next-gen console with 512GB SSD,326.05,4.5,65386
+SKU000808,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,162.71,4.7,6352
+SKU000809,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,297,4.4,5093
+SKU000810,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,156.84,4.7,2362
+SKU000811,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,152.48,4.9,5206
+SKU000812,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,37.36,4.7,71547
+SKU000813,Xbox Series S,Gaming,Next-gen console with 512GB SSD,277.47,4.7,56843
+SKU000814,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,37.94,4.2,79690
+SKU000815,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,461.8,4.6,2996
+SKU000816,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,301.08,4.5,5458
+SKU000817,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,710.73,4.6,39167
+SKU000818,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",146.92,4.9,58886
+SKU000819,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,273.28,5,2183
+SKU000820,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,193.4,4.5,7061
+SKU000821,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",901.47,5,3383
+SKU000822,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",135.09,4.7,38744
+SKU000823,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,193.33,4.7,3431
+SKU000824,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,39.19,4.4,4388
+SKU000825,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,251.86,4.2,3563
+SKU000826,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,325.18,5,2603
+SKU000827,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,77.53,4.9,4291
+SKU000828,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,33.92,4.2,74496
+SKU000829,Calphalon Premier Space Saving Set,Kitchen,10-piece nonstick cookware set,314.2,4.7,6370
+SKU000830,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,445.69,4.8,7043
+SKU000831,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,37.8,4.1,2412
+SKU000832,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,344.69,4.6,8609
+SKU000833,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,647.85,4.9,34451
+SKU000834,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",93.48,4.3,33893
+SKU000835,Nespresso Vertuo Next,Kitchen,Coffee and espresso maker with 5 cup sizes,179.93,4.8,6075
+SKU000836,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,295.13,4.4,44892
+SKU000837,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,184.09,4.7,3773
+SKU000838,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,97.24,4.8,2997
+SKU000839,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,15.23,4.2,56975
+SKU000840,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",102.59,5,20029
+SKU000841,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,27.07,4.6,70717
+SKU000842,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,309.8,4.6,74765
+SKU000843,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.02,4.8,60909
+SKU000844,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,109.21,5,4530
+SKU000845,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,37.19,4.3,3961
+SKU000846,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,196.58,4.6,2908
+SKU000847,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,155.89,4.7,1826
+SKU000848,Fitbit Charge 4,Electronics,Fitness tracker with built-in GPS,164.85,4.8,5547
+SKU000849,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,35.02,4.7,2526
+SKU000850,AmazonBasics Foldable Dog Crate,Pet,42-inch portable kennel with divider panel,54,4.4,2997
+SKU000851,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,31.97,4.4,3811
+SKU000852,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,576.45,4.8,4521
+SKU000853,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,28.25,4.5,1789
+SKU000854,Philips Hue White Starter Kit,Electronics,Smart LED bulbs with bridge and dimmer switch,215.91,3.8,4747
+SKU000855,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,23.52,4.6,11055
+SKU000856,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,654.81,5,36701
+SKU000857,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,498.11,4.1,6363
+SKU000858,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",397.76,4.6,74087
+SKU000859,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",861.01,5,2246
+SKU000860,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,23.73,5,90699
+SKU000861,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",452.64,4.8,95750
+SKU000862,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),49.52,4.4,59368
+SKU000863,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",854.14,4.8,2500
+SKU000864,Xbox Series S,Gaming,Next-gen console with 512GB SSD,296.44,5,42170
+SKU000865,Echo Dot (4th Gen),Electronics,Smart speaker with Alexa | Glacier White,49,4.5,79819
+SKU000866,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,101.18,4.6,8041
+SKU000867,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,23.27,4.4,4343
+SKU000868,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",374.54,4.6,66655
+SKU000869,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,149.06,4.7,2935
+SKU000870,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),54.45,5,145186
+SKU000871,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,243.66,5,3324
+SKU000872,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,90.64,4.7,3904
+SKU000873,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,205.75,4.5,3979
+SKU000874,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,24.53,4,9219
+SKU000875,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,153.85,4.9,2965
+SKU000876,Yeti Rambler 20 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler with MagSlider lid,27.93,4.8,74201
+SKU000877,Apple AirPods Pro,Electronics,Active Noise Cancelling wireless earbuds,259.76,4.5,115570
+SKU000878,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,309.53,5,2457
+SKU000879,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,125.85,4.8,3047
+SKU000880,OXO Good Grips 12-Inch Tongs,Kitchen,Stainless steel tongs with nylon heads,12.27,4.4,3159
+SKU000881,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.18,4.6,41747
+SKU000882,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,31.02,5,2531
+SKU000883,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,62.37,4.7,4998
+SKU000884,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,13.8,4.3,79772
+SKU000885,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,476.98,5,5994
+SKU000886,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,130.06,4.5,2493
+SKU000887,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,463.74,5,3126
+SKU000888,LEGO Ideas Tree House,Toys,3036-piece building kit with 3 cabins and foliage elements,236.9,5,7868
+SKU000889,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",781.9,4.8,2562
+SKU000890,Apple MacBook Air M1,Electronics,13.3-inch Retina display with 8-core CPU,947.69,5,5189
+SKU000891,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,31.32,4.8,3533
+SKU000892,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,482,5,6103
+SKU000893,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,370.98,4.9,8790
+SKU000894,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,97.93,4.5,4168
+SKU000895,Canon EOS Rebel T7,Electronics,DSLR camera with 18-55mm lens,465.12,4.4,2798
+SKU000896,GoPro HERO9 Black,Electronics,5K waterproof action camera with front display,423.44,5,7957
+SKU000897,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,190.77,4.4,32449
+SKU000898,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,53.95,4.3,6388
+SKU000899,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,13.53,4.4,65545
+SKU000900,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,155.9,4.7,3567
+SKU000901,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,64.97,5,3512
+SKU000902,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,631.89,4.4,24786
+SKU000903,AmazonBasics Silicone Baking Mat,Kitchen,Non-stick mat for baking and kneading dough,14.03,4.7,59626
+SKU000904,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",152.44,5,59035
+SKU000905,Logitech MX Master 3,Electronics,Wireless mouse with ultra-fast scrolling,98.42,4.8,7858
+SKU000906,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,37.74,4.4,32913
+SKU000907,Blue Yeti USB Microphone,Electronics,Professional condenser mic with multiple patterns,138.24,4.4,5739
+SKU000908,Adidas Unisex-Child Gamecourt Shoes,Clothing,Casual sneakers with cloudfoam cushioning,38.73,4.7,4643
+SKU000909,Yeti Hopper M20 Soft Cooler,Outdoors,Portable cooler with 20-can capacity,285.56,4.6,3975
+SKU000910,Anker PowerCore 10000,Electronics,Portable charger with PowerIQ technology,25.36,4.9,136591
+SKU000911,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",152.66,5,30364
+SKU000912,Patagonia Men's Better Sweater,Clothing,Full-zip fleece jacket made from recycled polyester,132.55,5,4699
+SKU000913,LEGO Star Wars Millennium Falcon,Toys,"7,541-piece Ultimate Collector Series model",871.1,5,3860
+SKU000914,UGG Women's Classic Short Boot,Clothing,Geniune sheepskin boots with suede heel guard,147.23,4.8,6410
+SKU000915,Shark Navigator Lift-Away Vacuum,Home,Bagless upright vacuum with HEPA filter,202.07,4.7,2919
+SKU000916,AmazonBasics Security Safe,Home,0.5 cubic foot electronic safe with keys,49.35,4.3,2799
+SKU000917,Allbirds Women's Wool Runners,Clothing,Sustainable merino wool sneakers,91.09,4.9,4679
+SKU000918,Weber Spirit II E-310 Grill,Outdoors,3-burner liquid propane gas grill,598.24,4.7,4090
+SKU000919,PlayStation 5 Digital Edition,Gaming,"Ultra-high speed SSD, 4K UHD Blu-ray drive",421.08,5,62177
+SKU000920,23andMe Health + Ancestry Kit,Health,DNA testing kit with personalized health insights,184.68,4.9,62989
+SKU000921,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,203.99,4.2,3884
+SKU000922,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,68.83,5,5789
+SKU000923,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,322.59,5,5270
+SKU000924,Columbia Men's Newton Ridge Boots,Clothing,Waterproof hiking boots with advanced traction,84.79,4.7,6368
+SKU000925,Fire TV Stick 4K,Electronics,4K Ultra HD streaming device with Alexa Voice Remote (includes TV controls),49.24,4,145811
+SKU000926,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,31.66,4.4,1935
+SKU000927,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,33.37,4.7,27612
+SKU000928,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",151.2,4.8,40344
+SKU000929,Amazon Smart Plug,Electronics,Wi-Fi enabled plug that works with Alexa,25.66,4.2,4535
+SKU000930,HP 24mh FHD Monitor,Electronics,23.8-inch IPS display with built-in speakers,161.76,4.4,4012
+SKU000931,Bose QuietComfort 35 II,Electronics,Wireless noise cancelling headphones,277.43,5,10826
+SKU000932,"Samsung 55\"" QLED TV",Electronics,4K Smart TV with Quantum HDR and Alexa Built-in,744.75,4.9,30024
+SKU000933,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,329.05,4.7,66504
+SKU000934,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,432.2,4.8,5075
+SKU000935,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,28.02,4.7,3933
+SKU000936,Apple Watch Series 6,Electronics,"GPS, 44mm Space Gray Aluminum Case with Black Sport Band",409.46,4.5,38964
+SKU000937,Yeti Rambler 30 oz Tumbler,Kitchen,Vacuum insulated stainless steel tumbler,31.62,5,4707
+SKU000938,All-new Blink Mini,Electronics,Compact indoor plug-in smart security camera,37.89,4.2,60475
+SKU000939,KitchenAid Artisan Stand Mixer,Kitchen,5-quart tilt-head mixer with 10 speeds,397.12,5,6179
+SKU000940,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,304.58,5,65041
+SKU000941,Stanley Classic Vacuum Bottle,Kitchen,1.0 QT insulated thermos with leak-proof lid,33.42,4.9,3903
+SKU000942,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,192.05,4.4,2555
+SKU000943,AmazonBasics Memory Foam Mattress,Home,8-inch medium-firm memory foam mattress,195.74,4.6,3021
+SKU000944,North Face Men's Resolve Jacket,Clothing,Waterproof rain jacket with secure-zip pockets,73.55,4.7,5952
+SKU000945,Simple Modern 40oz Tumbler,Kitchen,Vacuum insulated stainless steel water bottle with straw lid,28.23,4.5,9481
+SKU000946,Kindle Paperwhite,Books,"Waterproof, 8GB, 6.8\ display",135.28,4.9,22201
+SKU000947,Nintendo Switch with Neon Joy-Con,Gaming,Console with Neon Blue and Neon Red Joy-Con controllers,278.2,4.4,65598
+SKU000948,Instant Pot DUO80 8 Qt 7-in-1,Kitchen,"7-in-1 pressure cooker, slow cooker, rice cooker, steamer, sautÃ©, yogurt maker and warmer",107.95,5,18167
+SKU000949,Yeti Rambler 18 oz Bottle,Kitchen,Vacuum insulated stainless steel water bottle,32.23,4.7,2478
+SKU000950,Sony WH-1000XM4 Headphones,Electronics,Wireless noise cancelling over-ear headphones,354.78,4.9,5721
